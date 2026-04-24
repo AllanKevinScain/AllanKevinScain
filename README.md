@@ -3,17 +3,15 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-scain-19802718a/)
 <hr />
 
-### 👋🏻😎 E ae, beleza? Me chamo Allan
+### 👋🏻😎 Hey, how’s it going? My name is Allan
+- 🚀 Fullstack Developer, passionate about building new, high-performance and scalable software.
 
-- 🚀 Desenvolvedor Fullstack, apaixonado por criar novos softwares, performáticos e escaláveis.
-
-### 🧠 Sobre mim
-
-- 💻 Desenvolvedor Fullstack com foco em React e TypeScript
-- 🎯 Foco em performance, escalabilidade e experiência do usuário
-- 🤖 Vasta experiência com integração de APIs e soluções com Inteligência Artificial
-- 📚 Estudante de Sistemas de Informação
-- 📈 Em constante evolução através de projetos e estudos contínuos
+### 🧠 About me
+- 💻 Fullstack Developer focused on React and TypeScript
+- 🎯 Focused on performance, scalability, and user experience
+- 🤖 Extensive experience with API integration and AI-driven solutions
+- 📚 Information Systems student
+- 📈 Constantly evolving through projects and continuous learning
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AllanKevinScain&show_icons=true&theme=transparent) -->
 
@@ -42,7 +40,7 @@
 <div align="center">
   <div align="center">
     <span style="font-size: 20px">
-      Use um pouco de seu tempo e veja minhas redes sociais, projetos e afins! Mas acompanhado de cafézinho né! Hehehe
+      Take a moment to check out my social media, projects, and more! But of course, with a cup of coffee on the side 😄
     </span>
     <img 
       src="public/download20231102095820.png" 
@@ -51,7 +49,3 @@
     />
   </div>
 </div>
-
-
-<br /><br />
-<img src="https://media.tenor.com/CCfr1f9DR9oAAAAM/querocafe-cafe.gif" style="width:30%">
