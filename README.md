@@ -5,13 +5,13 @@
 
 ### 👋🏻😎 E ae, beleza? Me chamo Allan
 
-- 🚀 Desenvolvedor Fullstack com foco em Front-end, apaixonado por criar interfaces modernas, performáticas e escaláveis.
+- 🚀 Desenvolvedor Fullstack, apaixonado por criar novos softwares, performáticos e escaláveis.
 
 ### 🧠 Sobre mim
 
 - 💻 Desenvolvedor Fullstack com foco em React e TypeScript
 - 🎯 Foco em performance, escalabilidade e experiência do usuário
-- 🤖 Experiência com integração de APIs e soluções com Inteligência Artificial
+- 🤖 Vasta experiência com integração de APIs e soluções com Inteligência Artificial
 - 📚 Estudante de Sistemas de Informação
 - 📈 Em constante evolução através de projetos e estudos contínuos
 
@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </div> <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,9 +46,7 @@
         Use um pouco de seu tempo e veja minhas redes sociais, projetos e afins! Mas acompanhado de cafézinho né! Hehehe
       </span>
     </div>
-
     <div style="width: 20px; height: 2px; background: #fff;"></div>
-
     <img 
       src="public/download20231102095820.png" 
       alt="Avatar" 
