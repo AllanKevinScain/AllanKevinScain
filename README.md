@@ -39,32 +39,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  text-align: center;
-">
-  <div style="
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  ">
-    <div style="
-      width: 300px;
-      padding: 10px;
-      border: 1px solid #fff;
-    ">
-      <span style="font-size: 20px">
-        Use um pouco de seu tempo e veja minhas redes sociais, projetos e afins! Mas acompanhado de cafézinho né! Hehehe
-      </span>
-    </div>
-    <div style="
-      width: 20px;
-      height: 2px;
-      background: #fff;
-    "></div>
+<div align="center">
+  <div align="center">
+    <span style="font-size: 20px">
+      Use um pouco de seu tempo e veja minhas redes sociais, projetos e afins! Mas acompanhado de cafézinho né! Hehehe
+    </span>
     <img 
       src="public/download20231102095820.png" 
       alt="Avatar" 
