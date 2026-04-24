@@ -37,9 +37,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </div> <br/><br/>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <div align="center">
@@ -49,7 +47,7 @@
     <img 
       src="public/download20231102095820.png" 
       alt="Avatar" 
-      width="150"
+      width="400"
     />
   </div>
 </div>
