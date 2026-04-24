@@ -15,7 +15,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AllanKevinScain&show_icons=true&theme=transparent) -->
 
-### Aqui estão as linguagens e marcadores de texto que utilizo nos meus desenvolvimentos 🛵 🚀
+### Here are the languages and markup tools I use in my development
 <hr />
 
 <div style="display: inline-block">
